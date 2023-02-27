@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/DharmeshV05/react-app/static/css/main.64a0087b.css",
+    "main.js": "/DharmeshV05/react-app/static/js/main.968d627f.js",
+    "static/media/1.png": "/DharmeshV05/react-app/static/media/1.d564965bf3805afd8e32.png",
+    "static/media/32.jpg": "/DharmeshV05/react-app/static/media/32.342386b05b2645f802c7.jpg",
+    "static/media/4.jpg": "/DharmeshV05/react-app/static/media/4.9bae92981bff135650c7.jpg",
+    "static/media/3.jpg": "/DharmeshV05/react-app/static/media/3.f2d5b741b06a522a8eb7.jpg",
+    "static/media/5.jpg": "/DharmeshV05/react-app/static/media/5.5ae1296bf32eb53dc838.jpg",
+    "index.html": "/DharmeshV05/react-app/index.html",
+    "main.64a0087b.css.map": "/DharmeshV05/react-app/static/css/main.64a0087b.css.map",
+    "main.968d627f.js.map": "/DharmeshV05/react-app/static/js/main.968d627f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64a0087b.css",
+    "static/js/main.968d627f.js"
+  ]
+}
